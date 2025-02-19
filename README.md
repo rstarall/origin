@@ -5,7 +5,7 @@
 <div align="center">
   <img src="./docs/banner.png" width="60%" alt="Orgin" />
 </div>
-<hr>
+
 <p align="center">
   <a href="https://github.com/">Orgin Homepage</a> ·
   <a href="https://github.com/">Documentation</a> ·
