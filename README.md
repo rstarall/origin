@@ -7,13 +7,13 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/">Orgin Homepage</a> ·
-  <a href="https://github.com/">Documentation</a> ·
-  <a href="https://github.com/">contact me</a>
+  <a href="https://github.com/rstarall/origin">Orgin Homepage</a> ·
+  <a href="https://github.com/rstarall/origin">Documentation</a> ·
+  <a href="https://github.com/rstarall/origin">contact me</a>
 </p>
 
 <p align="center">
-    <a href="https://dify.ai/pricing" target="_blank">
+    <a href="https://github.com/rstarall/origin" target="_blank">
         <img alt="Static Badge" src="https://img.shields.io/badge/free-pricing?logo=free&color=%20%23155EEF&label=pricing&labelColor=%20%23528bff"></a>
     <a href="https://github.com/rstarall/origin/graphs/commit-activity" target="_blank">
         <img alt="Commits last month" src="https://img.shields.io/github/commit-activity/m/rstarall/orgin?labelColor=%20%2332b583&color=%20%2312b76a"></a>
